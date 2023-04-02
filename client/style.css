@@ -103,11 +103,11 @@ section {
 }
 
 #text0 {
-    margin-right: 805px;
+    margin-right: 1005px;
     position: relative;
     text-align: justify;
     justify-content: center;
-    margin-bottom: 635px;
+    margin-bottom: 800px;
     color: #fae6f9;
     font-size: 9em;
     font-size: clamp(30px,8vw,100px);

@@ -114,11 +114,11 @@ section {
 }
 
 #text2 {
-    margin-right: 600px;
+    margin-right: 500px;
     position: relative;
     text-align: center;
     justify-content: center;
-    margin-bottom: 470px;
+    margin-bottom: 600px;
     color: #fff;
     font-size: 2em;
     font-size: clamp(15px,2vw,25px);

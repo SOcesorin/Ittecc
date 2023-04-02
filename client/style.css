@@ -105,7 +105,7 @@ section {
 #text0 {
     margin-right: 1005px;
     position: relative;
-    text-align: justify;
+    text-align: center;
     justify-content: center;
     margin-bottom: 800px;
     color: #fae6f9;
@@ -116,9 +116,9 @@ section {
 #text2 {
     margin-right: 600px;
     position: absolute;
-    text-align: justify;
+    text-align: center;
     justify-content: center;
-    margin-bottom: 500px;
+    margin-bottom: 470px;
     color: #fff;
     font-size: 2em;
     font-size: clamp(15px,2vw,25px);

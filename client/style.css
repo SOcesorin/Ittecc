@@ -103,7 +103,7 @@ section {
 }
 
 #text0 {
-    margin-right: 605px;
+    margin-right: 805px;
     position: relative;
     text-align: justify;
     justify-content: center;
@@ -116,7 +116,7 @@ section {
 #text2 {
     margin-right: 900px;
     position: relative;
-    text-align: justify;
+    text-align: right;
     justify-content: center;
     margin-bottom: 500px;
     color: #fff;

@@ -98,7 +98,7 @@ section {
     text-align: justify;
     justify-content: center;
     margin-bottom: 635px;
-    color: #;
+    color: #fff;
     font-size: 9em;
     font-size: clamp(30px,8vw,100px);
 }
@@ -215,7 +215,7 @@ section {
 .message {
   flex: 1;
 
-  color: #dcdcdc;
+  color: #fff;
   font-size: 20px;
 
   max-width: 100%;

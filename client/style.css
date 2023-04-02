@@ -114,14 +114,14 @@ section {
 }
 
 #text2 {
-    margin-right: 800px;
+    margin-right: 600px;
     position: absolute;
     text-align: justify;
     justify-content: center;
     margin-bottom: 500px;
     color: #fff;
-    font-size: 1em;
-    font-size: clamp(10px,1vw,20px);
+    font-size: 2em;
+    font-size: clamp(15px,2vw,25px);
 }
 
 #hero {

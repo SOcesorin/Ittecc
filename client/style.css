@@ -114,13 +114,13 @@ section {
 }
 
 #text2 {
-    margin-right: 780px;
+    margin-right: 100px;
     position: relative;
     text-align: justify;
     justify-content: center;
-    margin-bottom: 635px;
-    color: #fae6f9;
-    font-size: 4em;
+    margin-bottom: 200px;
+    color: #fff;
+    font-size: 5em;
     font-size: clamp(30px,8vw,100px);
 }
 

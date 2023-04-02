@@ -120,8 +120,8 @@ section {
     justify-content: center;
     margin-bottom: 500px;
     color: #fff;
-    font-size: 4em;
-    font-size: clamp(10px,1vw,50px);
+    font-size: 1em;
+    font-size: clamp(5px,1vw,20px);
 }
 
 #hero {

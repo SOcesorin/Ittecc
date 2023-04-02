@@ -12,6 +12,7 @@ body {
  background:url('https://www.objectdeveloper.com/wp-content/uploads/2019/08/cover.jpg') no-repeat;
   background-size: cover;
   background-position: center;
+  min-height: 100vh;
 }
 
 header {

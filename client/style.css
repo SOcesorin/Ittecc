@@ -7,7 +7,11 @@
   font-family: "Alegreya Sans", sans-serif;
 }
 
-
+.hero{
+  overflow: hidden;
+  position: relative;
+  background-image: url(data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==);
+}
 
 #app {
   width: 100vw;

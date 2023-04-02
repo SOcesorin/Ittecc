@@ -107,7 +107,7 @@ section {
     position: relative;
     text-align: center;
     justify-content: center;
-    margin-bottom: 300px;
+    margin-bottom: 800px;
     color: #fae6f9;
     font-size: 9em;
     font-size: clamp(30px,8vw,100px);
@@ -118,7 +118,7 @@ section {
     position: absolute;
     text-align: justify;
     justify-content: center;
-    margin-bottom: 800px;
+    margin-bottom: 300px;
     color: #fff;
     font-size: 2em;
     font-size: clamp(15px,2vw,25px);

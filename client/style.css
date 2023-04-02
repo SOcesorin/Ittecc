@@ -115,7 +115,7 @@ section {
 
 #text2 {
     margin-right: 700px;
-    position: relative;
+    position: absolute;
     text-align: justify;
     justify-content: center;
     margin-bottom: 600px;

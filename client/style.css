@@ -102,6 +102,17 @@ section {
     font-size: clamp(30px,8vw,100px);
 }
 
+#text0 {
+    margin-right: 805px;
+    position: relative;
+    text-align: justify;
+    justify-content: center;
+    margin-bottom: 635px;
+    color: #fae6f9;
+    font-size: 9em;
+    font-size: clamp(30px,8vw,100px);
+}
+
 #hero {
   width: 100%;
   height: 100vh;

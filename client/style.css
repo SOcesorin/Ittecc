@@ -8,7 +8,7 @@
 }
 
 body {
-  background: #343541;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToVWWoSZHCLPC-lXsyi-XUPwjpJBWd5xHMDt0grwDL1eMY51nlyQFKMnRRkyYv0Bp_JpQ&usqp=CAU'); no-repeat, cover;
 }
 
 #app {

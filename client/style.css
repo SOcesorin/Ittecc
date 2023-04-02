@@ -115,10 +115,10 @@ section {
 
 #text2 {
     margin-right: 700px;
-
+    position: absolute;
     text-align: justify;
     justify-content: center;
-    margin-bottom: 400px;
+    margin-bottom: 800px;
     color: #fff;
     font-size: 2em;
     font-size: clamp(15px,2vw,25px);

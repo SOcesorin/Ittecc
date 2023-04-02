@@ -9,7 +9,9 @@
 }
 
 body {
- background:url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.objectdeveloper.com%2Fwhat-is-artificial-intelligence-ai%2F&psig=AOvVaw1TverD0cs209ocxT5lYcBj&ust=1680497273268000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjMu6qyiv4CFQAAAAAdAAAAABAE') no-repeat cover;
+ background:url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.objectdeveloper.com%2Fwhat-is-artificial-intelligence-ai%2F&psig=AOvVaw1TverD0cs209ocxT5lYcBj&ust=1680497273268000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJjMu6qyiv4CFQAAAAAdAAAAABAE') no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 
 header {

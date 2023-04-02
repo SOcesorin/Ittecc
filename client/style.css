@@ -15,7 +15,7 @@ body {
 }
 
 header {
-  background: #fa9df7;
+  background: #fff;
   position: fixed;
   top: 0;
   left: 0;
@@ -34,7 +34,7 @@ header {
 header .logo {
   right: 87%;
   position: absolute;
-  color: white;
+  color: fa9df7;
   font-size: 24px;
   text-transform: uppercase;
   text-decoration: none;
